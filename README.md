@@ -1,5 +1,5 @@
 # Simple-Memory-Game
-simple java console application code for Memory Game.
+# simple java console application code for Memory Game.
 The code will generate a random symbols,numbers,alphabets and store it in a two dimension array.eg:tiles[][]
 The tile will visible for certain period depends on level.
 After that an array with full of 'X' will generated.eg:ans[][]
