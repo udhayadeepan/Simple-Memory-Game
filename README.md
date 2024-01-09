@@ -8,4 +8,4 @@ The number of clues will vary depends on level of hardness.
 The default level i.e row x col size is 4x4 , and you can change it on menu.
 
 Some errors may not be handeled.
-you can give your suggestion 🙂 that will help me improve my skills.
+
